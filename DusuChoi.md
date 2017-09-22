@@ -9,10 +9,13 @@ First block(use ~~~)
 ```
 second block(use ```)
 ```
-**굵게**
-**This is bold**
-
 ---
-THE END
+*기울이기(use *)*
 
+**This is bold굵게(use **)**
+
+~~취소선~~
 ---
+
+
+
