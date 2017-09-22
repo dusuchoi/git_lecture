@@ -10,8 +10,10 @@ First block(use ~~~)
 second block(use ```)
 ```
 
-**This is bold 강조(use **)**
+**This is bold(use**)**
 
-
----The END(use ---)---
-
+---
+---
+THE END
+---
+---
