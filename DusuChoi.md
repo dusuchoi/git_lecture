@@ -1,5 +1,5 @@
 # This is Title 제목 (use #)
-## This is Subtitle 부제목  (user##)
+## This is Subtitle 부제목  (use ##)
 ~~~
 First block(use ~~~)
 ~~~
@@ -9,11 +9,10 @@ First block(use ~~~)
 ```
 second block(use ```)
 ```
+**굵게**
+**This is bold**
 
-**This is bold(use**)**
-
----
 ---
 THE END
----
+
 ---
