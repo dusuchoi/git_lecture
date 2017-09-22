@@ -1,10 +1,12 @@
 # This is Title 제목 (use #)
 ## This is Subtitle 부제목  (use ##)
+  
+* 트와이스
+- 소녀시대
++ 여자친구
+  
 ~~~
 First block(use ~~~)
- * 소녀시대
-  * 트와이스
-    * 여자친구
 ~~~
   
 ```
