@@ -1,13 +1,13 @@
-# This is Title 제목 (use #)
-## This is Subtitle 부제목  (use ##)
-  
-* 트와이스
-- 소녀시대
-+ 여자친구
+# 컴퓨터정보통신공학 (use #)
+## 201414031 최두수  (use ##)
   
 ~~~
-First block(use ~~~)
+챔피언(use ~~~)
 ~~~
+
+* 노틸러스
+- 아리
++ 카시오페아
   
 ```
 second block(use ```)
